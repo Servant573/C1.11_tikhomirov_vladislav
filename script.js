@@ -4,7 +4,6 @@ const clockSec = document.querySelector("#clock-s");
 const plus = document.querySelector('.plus');
 const minus = document.querySelector('.minus');
 const start = document.querySelector('.start');
-const stop = document.querySelector('.stop');
 const message = document.querySelector('.message');
 
 let countSec = 0;
